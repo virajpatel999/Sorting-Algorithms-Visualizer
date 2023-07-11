@@ -482,10 +482,6 @@ bool controls()
     {
         return false;
     }
-    //else if(s=="\n")
-    //{
-    //    return true;
-    //}
     return true;
 }
 
